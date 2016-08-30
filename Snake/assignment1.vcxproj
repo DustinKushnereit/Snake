@@ -44,11 +44,11 @@
       <WarningLevel>Level3</WarningLevel>
       <Optimization>Disabled</Optimization>
       <SDLCheck>true</SDLCheck>
-      <AdditionalIncludeDirectories>../../shared/Allegro5/include;../../shared/DeanLib</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>../Allegro5/include;../DeanLib</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <AdditionalLibraryDirectories>../../shared/DeanLib/Debug;../../shared/Allegro5/lib</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>../DeanLib/Debug;../Allegro5/lib</AdditionalLibraryDirectories>
       <AdditionalDependencies>allegro-5.0.10-monolith-md-debug.lib;DeanLib.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>

@@ -15,7 +15,7 @@ Power Up Freq
 Tile Size
 35
 Font Path
-../../shared/sample assets/cour.ttf
+../Snake Assets/cour.ttf
 Font Size
 20
 Sprite Path
