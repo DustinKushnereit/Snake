@@ -1,0 +1,34 @@
+Map Width
+420
+Map Height
+420
+Snake Speed
+220
+Points To Win
+10
+Level Number
+1
+Starting Points
+0
+Power Up Freq
+10
+Tile Size
+35
+Font Path
+../../shared/sample assets/cour.ttf
+Font Size
+20
+Sprite Path
+../Snake Assets/food sprites.png
+Start Screen
+../Snake Assets/Start Screen.png
+Level 2
+../Snake Assets/Level 2.png
+Level 3
+../Snake Assets/Level 3.png
+Game Over
+../Snake Assets/Game Over.png
+Win
+../Snake Assets/Win.png
+Max Number Of Power Ups
+2
